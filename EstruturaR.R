@@ -14,3 +14,13 @@ class(t)
 t$MU
 names(t)
 t
+
+#criarSUeSI<-function(MU){
+#FC<-setRefClass("FC",fields=list(MU="matrix",SU="matrix",SI="matrix"))
+#  estrutura<-FC(MU=MU)
+#  ...cálculo do SU...
+#  estrutura$SU<-SU
+#  ...cálculo do SI...
+#  estrutura$SI<-SI
+# return(estrutura)
+#}
